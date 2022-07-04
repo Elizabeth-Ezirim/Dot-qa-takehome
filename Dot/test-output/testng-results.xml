@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-03T13:12:55 WAT" name="Suite" finished-at="2022-07-03T13:13:16 WAT" duration-ms="21056">
+    <groups>
+    </groups>
+    <test started-at="2022-07-03T13:12:55 WAT" name="Languages Verification" finished-at="2022-07-03T13:13:16 WAT" duration-ms="21056">
+      <class name="VerifyLanguages">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:12:55 WAT" name="SetUp" finished-at="2022-07-03T13:13:02 WAT" duration-ms="6970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verifyLanguageIsChineseAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:02 WAT" name="verifyLanguageIsChineseAndConnection" data-provider="Chinese" finished-at="2022-07-03T13:13:04 WAT" duration-ms="1678" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[中文]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsChineseAndConnection -->
+        <test-method signature="verifyLanguageIsDeutschAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:04 WAT" name="verifyLanguageIsDeutschAndConnection" data-provider="Deutsch" finished-at="2022-07-03T13:13:05 WAT" duration-ms="1347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deutsch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsDeutschAndConnection -->
+        <test-method signature="verifyLanguageIsEnglishAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:05 WAT" name="verifyLanguageIsEnglishAndConnection" data-provider="English" finished-at="2022-07-03T13:13:06 WAT" duration-ms="1431" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsEnglishAndConnection -->
+        <test-method signature="verifyLanguageIsFrenchAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:06 WAT" name="verifyLanguageIsFrenchAndConnection" data-provider="French" finished-at="2022-07-03T13:13:08 WAT" duration-ms="1328" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Français]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsFrenchAndConnection -->
+        <test-method signature="verifyLanguageIsItalianAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:08 WAT" name="verifyLanguageIsItalianAndConnection" data-provider="Italian" finished-at="2022-07-03T13:13:09 WAT" duration-ms="1337" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Italiano]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsItalianAndConnection -->
+        <test-method signature="verifyLanguageIsJapaneseAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:09 WAT" name="verifyLanguageIsJapaneseAndConnection" data-provider="Japanese" finished-at="2022-07-03T13:13:10 WAT" duration-ms="1216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[日本語]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsJapaneseAndConnection -->
+        <test-method signature="verifyLanguageIsPolandAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:10 WAT" name="verifyLanguageIsPolandAndConnection" data-provider="Poland" finished-at="2022-07-03T13:13:12 WAT" duration-ms="1192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Polski]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsPolandAndConnection -->
+        <test-method signature="verifyLanguageIsPortugalAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:12 WAT" name="verifyLanguageIsPortugalAndConnection" data-provider="Portugal" finished-at="2022-07-03T13:13:13 WAT" duration-ms="992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Português]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsPortugalAndConnection -->
+        <test-method signature="verifyLanguageIsRussianAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:13 WAT" name="verifyLanguageIsRussianAndConnection" data-provider="Russian" finished-at="2022-07-03T13:13:14 WAT" duration-ms="1226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Русский]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsRussianAndConnection -->
+        <test-method signature="verifyLanguageIsSpanishAndConnection(java.lang.String)[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:14 WAT" name="verifyLanguageIsSpanishAndConnection" data-provider="Spanish" finished-at="2022-07-03T13:13:15 WAT" duration-ms="1125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Español]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageIsSpanishAndConnection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:VerifyLanguages@2e77b8cf]" started-at="2022-07-03T13:13:15 WAT" name="tearDown" finished-at="2022-07-03T13:13:16 WAT" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- VerifyLanguages -->
+    </test> <!-- Languages Verification -->
+  </suite> <!-- Suite -->
+</testng-results>

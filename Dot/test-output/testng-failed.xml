@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="classes.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Languages Verification(failed)">
+    <classes>
+      <class name="VerifyLanguages">
+        <methods>
+          <include name="verifyLanguageIsJapaneseAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsEnglishAndConnection" invocation-numbers="0"/>
+          <include name="SetUp"/>
+          <include name="verifyLanguageIsFrenchAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsPortugalAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsChineseAndConnection" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="verifyLanguageIsSpanishAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsDeutschAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsRussianAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsItalianAndConnection" invocation-numbers="0"/>
+          <include name="verifyLanguageIsPolandAndConnection" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- VerifyLanguages -->
+    </classes>
+  </test> <!-- Languages Verification(failed) -->
+</suite> <!-- Failed suite [Suite] -->

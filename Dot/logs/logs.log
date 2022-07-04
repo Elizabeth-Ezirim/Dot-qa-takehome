@@ -1,0 +1,86 @@
+13:58:01.897 [main] INFO  classes.Base - Browser in use: chrome
+13:58:14.821 [main] INFO  classes.Base - Driver is Initialized
+13:58:16.645 [main] INFO  classes.Base - Fetching URL...
+13:58:18.594 [main] INFO  classes.Base - Response Code received: 200
+13:58:18.595 [main] INFO  VerifyLanguages - Successfull confirmed Chinese Language is Present and Hyperlink not broken
+13:58:20.538 [main] INFO  classes.Base - Response Code received: 200
+13:58:20.539 [main] INFO  VerifyLanguages - Successfull confirmed Deutsch Language is Present and Hyperlink not broken
+13:58:21.922 [main] INFO  classes.Base - Response Code received: 200
+13:58:21.923 [main] INFO  VerifyLanguages - Successfull confirmed English Language is Present and Hyperlink not broken
+13:58:23.828 [main] INFO  classes.Base - Response Code received: 200
+13:58:23.828 [main] INFO  VerifyLanguages - Successfull confirmed French Language is Present and Hyperlink not broken
+13:58:25.452 [main] INFO  classes.Base - Response Code received: 200
+13:58:25.453 [main] INFO  VerifyLanguages - Successfull confirmed Italian Language is Present and Hyperlink not broken
+13:58:26.886 [main] INFO  classes.Base - Response Code received: 200
+13:58:26.886 [main] INFO  VerifyLanguages - Successfull confirmed Japanese Language is Present and Hyperlink not broken
+13:58:29.536 [main] INFO  classes.Base - Response Code received: 200
+13:58:29.536 [main] INFO  VerifyLanguages - Successfull confirmed Poland Language is Present and Hyperlink not broken
+13:58:31.294 [main] INFO  classes.Base - Response Code received: 200
+13:58:31.294 [main] INFO  VerifyLanguages - Successfull confirmed Portugal Language is Present and Hyperlink not broken
+13:58:32.723 [main] INFO  classes.Base - Response Code received: 200
+13:58:32.723 [main] INFO  VerifyLanguages - Successfull confirmed Russian Language is Present and Hyperlink not broken
+13:58:34.361 [main] INFO  classes.Base - Response Code received: 200
+13:58:34.361 [main] INFO  VerifyLanguages - Successfull confirmed Spanish Language is Present and Hyperlink not broken
+13:58:35.502 [main] INFO  classes.Base - Driver is closed
+14:00:26.910 [main] INFO  classes.Base - Browser in use: chrome
+14:00:30.215 [main] INFO  classes.Base - Driver is Initialized
+14:00:32.029 [main] INFO  classes.Base - Fetching URL...
+14:00:33.764 [main] INFO  classes.Base - Response Code received: 200
+14:00:33.765 [main] INFO  VerifyLanguages - Successfull confirmed Chinese Language is Present and Hyperlink not broken
+14:00:35.103 [main] INFO  classes.Base - Response Code received: 200
+14:00:35.103 [main] INFO  VerifyLanguages - Successfull confirmed Deutsch Language is Present and Hyperlink not broken
+14:00:36.524 [main] INFO  classes.Base - Response Code received: 200
+14:00:36.524 [main] INFO  VerifyLanguages - Successfull confirmed English Language is Present and Hyperlink not broken
+14:00:37.855 [main] INFO  classes.Base - Response Code received: 200
+14:00:37.855 [main] INFO  VerifyLanguages - Successfull confirmed French Language is Present and Hyperlink not broken
+14:00:39.186 [main] INFO  classes.Base - Response Code received: 200
+14:00:39.186 [main] INFO  VerifyLanguages - Successfull confirmed Italian Language is Present and Hyperlink not broken
+14:00:40.425 [main] INFO  classes.Base - Response Code received: 200
+14:00:40.426 [main] INFO  VerifyLanguages - Successfull confirmed Japanese Language is Present and Hyperlink not broken
+14:00:41.746 [main] INFO  classes.Base - Response Code received: 200
+14:00:41.747 [main] INFO  VerifyLanguages - Successfull confirmed Poland Language is Present and Hyperlink not broken
+14:00:43.078 [main] INFO  classes.Base - Response Code received: 200
+14:00:43.078 [main] INFO  VerifyLanguages - Successfull confirmed Portugal Language is Present and Hyperlink not broken
+14:00:44.408 [main] INFO  classes.Base - Response Code received: 200
+14:00:44.409 [main] INFO  VerifyLanguages - Successfull confirmed Russian Language is Present and Hyperlink not broken
+14:00:45.487 [main] INFO  classes.Base - Response Code received: 200
+14:00:45.489 [main] INFO  VerifyLanguages - Successfull confirmed Spanish Language is Present and Hyperlink not broken
+14:00:46.594 [main] INFO  classes.Base - Driver is closed
+13:11:08.111 [main] INFO  classes.Base - Browser in use: chrome
+13:11:20.575 [main] INFO  classes.Base - Driver is Initialized
+13:11:24.180 [main] INFO  classes.Base - Fetching URL...
+13:11:26.020 [main] INFO  classes.Base - Response Code received: 200
+13:11:27.451 [main] INFO  classes.Base - Response Code received: 200
+13:11:28.985 [main] INFO  classes.Base - Response Code received: 200
+13:11:30.419 [main] INFO  classes.Base - Response Code received: 200
+13:11:32.058 [main] INFO  classes.Base - Response Code received: 200
+13:11:33.597 [main] INFO  classes.Base - Response Code received: 200
+13:11:35.232 [main] INFO  classes.Base - Response Code received: 200
+13:11:36.665 [main] INFO  classes.Base - Response Code received: 200
+13:11:38.201 [main] INFO  classes.Base - Response Code received: 200
+13:11:39.471 [main] INFO  classes.Base - Response Code received: 200
+13:11:41.116 [main] INFO  classes.Base - Driver is closed
+13:12:55.531 [main] INFO  classes.Base - Browser in use: chrome
+13:13:00.347 [main] INFO  classes.Base - Driver is Initialized
+13:13:02.484 [main] INFO  classes.Base - Fetching URL...
+13:13:04.188 [main] INFO  classes.Base - Response Code received: 200
+13:13:04.189 [main] INFO  VerifyLanguages - Successfull confirmed Chinese Language is Present and Hyperlink not broken
+13:13:05.549 [main] INFO  classes.Base - Response Code received: 200
+13:13:05.549 [main] INFO  VerifyLanguages - Successfull confirmed Deutsch Language is Present and Hyperlink not broken
+13:13:06.982 [main] INFO  classes.Base - Response Code received: 200
+13:13:06.983 [main] INFO  VerifyLanguages - Successfull confirmed English Language is Present and Hyperlink not broken
+13:13:08.313 [main] INFO  classes.Base - Response Code received: 200
+13:13:08.313 [main] INFO  VerifyLanguages - Successfull confirmed French Language is Present and Hyperlink not broken
+13:13:09.653 [main] INFO  classes.Base - Response Code received: 200
+13:13:09.654 [main] INFO  VerifyLanguages - Successfull confirmed Italian Language is Present and Hyperlink not broken
+13:13:10.872 [main] INFO  classes.Base - Response Code received: 200
+13:13:10.873 [main] INFO  VerifyLanguages - Successfull confirmed Japanese Language is Present and Hyperlink not broken
+13:13:12.068 [main] INFO  classes.Base - Response Code received: 200
+13:13:12.068 [main] INFO  VerifyLanguages - Successfull confirmed Poland Language is Present and Hyperlink not broken
+13:13:13.063 [main] INFO  classes.Base - Response Code received: 200
+13:13:13.063 [main] INFO  VerifyLanguages - Successfull confirmed Portugal Language is Present and Hyperlink not broken
+13:13:14.291 [main] INFO  classes.Base - Response Code received: 200
+13:13:14.292 [main] INFO  VerifyLanguages - Successfull confirmed Russian Language is Present and Hyperlink not broken
+13:13:15.421 [main] INFO  classes.Base - Response Code received: 200
+13:13:15.421 [main] INFO  VerifyLanguages - Successfull confirmed Spanish Language is Present and Hyperlink not broken
+13:13:16.544 [main] INFO  classes.Base - Driver is closed
